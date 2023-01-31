@@ -3,10 +3,10 @@
     <!-- Start Logobar -->
     <div class="logobar">
         <a href="index.html" class="logo logo-large">
-            <h4>Laravel 9 App</h4>
+            <h4>Laravel App</h4>
         </a>
         <a href="index.html" class="logo logo-small">
-            <h4>L9A</h4>
+            <h4>LA</h4>
         </a>
     </div>
     <!-- End Logobar -->

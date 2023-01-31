@@ -7,7 +7,7 @@
     <meta name="keywords" content="admin, admin panel, admin template, admin dashboard, admin theme, bootstrap 4, responsive, sass support, ui kits, crm, ecommerce">
     <meta name="author" content="Themesbox17">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <title>Minaati - Bootstrap Minimal & Clean Admin Template</title>
+    <title>Laravel 9</title>
     <!-- Fevicon -->
     <link rel="shortcut icon" href="assets/images/favicon.ico">
     <!-- Start css -->
@@ -32,7 +32,11 @@
                                 <div class="card-body">
                                     <form action="#">
                                         <div class="form-head">
+<<<<<<< HEAD
                                         	<h3>Laravel 9 App</h3>
+=======
+                                        	<h3>Laravel App</h3>
+>>>>>>> #1 blank page & login page
                                         </div>                                        
                                         <div class="form-group">
                                             <input type="text" class="form-control" id="username" placeholder="Email ID" required>
